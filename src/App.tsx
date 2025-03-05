@@ -8,6 +8,7 @@ import {Contact} from "./layout/sections/contact/Contact.tsx";
 import {Slogan} from "./layout/sections/slogan/Slogan.tsx";
 import {Footer} from "./layout/sections/footer/Footer.tsx";
 
+
 function App() {
 
 
